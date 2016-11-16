@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp.Xmpp", "Sharp.Xmpp.csproj", "{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "..\TestConsoleApp\TestConsoleApp.csproj", "{9CC8A917-3F59-4744-AC41-CBC412C297AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChatForm", "SimpleChatForm\SimpleChatForm.csproj", "{7F6E4324-9BB7-4C64-A1AC-F503FA99FB9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EA99E39-8C5C-4F69-9F3F-8E3074C518FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC8A917-3F59-4744-AC41-CBC412C297AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC8A917-3F59-4744-AC41-CBC412C297AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC8A917-3F59-4744-AC41-CBC412C297AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC8A917-3F59-4744-AC41-CBC412C297AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6E4324-9BB7-4C64-A1AC-F503FA99FB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6E4324-9BB7-4C64-A1AC-F503FA99FB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6E4324-9BB7-4C64-A1AC-F503FA99FB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6E4324-9BB7-4C64-A1AC-F503FA99FB9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
